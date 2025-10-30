@@ -114,7 +114,7 @@ export default function Home() {
               <div className="absolute -inset-4 bg-gradient-to-r from-emerald-500/20 to-emerald-600/20 rounded-3xl blur-3xl"></div>
               <div className="relative rounded-2xl overflow-hidden border border-slate-700 shadow-2xl">
                 <Image
-                  src="/attached_assets/stock_images/financial_planning_d_8dc8e6d6.jpg"
+                  src="/images/financial_planning_d_8dc8e6d6.jpg"
                   alt="Financial Dashboard"
                   width={600}
                   height={400}
@@ -378,7 +378,7 @@ export default function Home() {
               <div className="absolute -inset-4 bg-gradient-to-r from-blue-500/20 to-purple-600/20 rounded-3xl blur-3xl"></div>
               <div className="relative rounded-2xl overflow-hidden border border-slate-700 shadow-2xl">
                 <Image
-                  src="/attached_assets/stock_images/happy_person_budgeti_130ba533.jpg"
+                  src="/images/happy_person_budgeti_130ba533.jpg"
                   alt="Happy person using budget planner"
                   width={600}
                   height={400}

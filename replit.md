@@ -11,6 +11,19 @@ A comprehensive budget planning application built with Next.js 16, React 19, Mon
   - Added `app/icon.svg` favicon to resolve 404 errors
   - Configured deployment settings for autoscale deployment
   - Set up workflow for Next.js dev server on port 5000
+  - Added `allowedDevOrigins` to Next.js config to fix cross-origin warnings
+
+- **Enhanced Landing Page & UI/UX** (October 30, 2025)
+  - Completely redesigned landing page with professional stock images
+  - Added hero section with animated gradient text and compelling statistics
+  - Enhanced feature section with icon-based cards and hover effects
+  - Added "How It Works" section with step-by-step visual guide
+  - Improved benefits section with security, speed, and goal-oriented messaging
+  - Added call-to-action section and comprehensive footer
+  - Implemented custom animations including gradient animation effect
+  - Improved color scheme, typography, and spacing throughout
+  - Added Lucide React icons for better visual hierarchy
+  - Enhanced button styles with hover effects and transitions
 
 ## Project Architecture
 
